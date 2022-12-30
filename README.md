@@ -1,32 +1,56 @@
-Hello!, me chamo Pedro Henrique!
+<br>
+
+<div align=center>
+</div>
+<table><tr><td valign="top" width="75%">
+
+## 👋 Olá, eu sou o Pedro Henrique!
+
+- Estudante de programação na Linguagem Python, desde 24 de novembro de 2022.
+- Atualmente não trabalho na área de tecnologia.
+- Pela [Twitch](https://www.twitch.tv/pedrohentec), você tem um contato direto comigo e pode acompanhar minha evolução.
+- Todos os exercícios e atualizações da minha evolução estarei colocando aqui.
+
+</td><td valign="top" width="25%">
+
+
+## 🖥️ Tecnologia Favorita
+- Python 🐍
+
+
+ </tr></tr></table> 
+
 
 ## Social
 
-  <a target='_blank' href="https://linkedin.com/in/pedrohentec/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  <a target='_blank' href="mailto:pedrohentec@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  <a target='_blank' href="https://www.twitch.tv/pedrohentec">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
+<div align=center>
 
-## Skill
-![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+&ensp;<a href="https://www.linkedin.com/in/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="mailto:pedrohentec@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Contato" width="38"/></a> 
+&ensp;<a href="https://www.twitch.tv/pedrohentec"><img src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" title="Twitch" alt="Twitch Account" width="31"/></a> 
+<a href="https://twitter.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="50"/></a> 
+&ensp;<a href="https://www.instagram.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Instagram Account" width="32"/></a> 
+&ensp;<a href="https://www.youtube.com/@pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
+&ensp;<a href="https://discord.com/invite/26bDPQa9TY"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
 
+<!-- <a href="https://www.tiktok.com/@pedrohentec"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> -->
 
-
-## About
-
-- Estudante de programação na Linguagem Python, desde 24 de novembro de 2022;
-- Atualmente não atuo na área de tecnologia;
-- Você pode me acompanhar pela [Twitch](https://www.twitch.tv/pedrohentec), lá você ter um contato direto comigo;
-- Estou sempre aberto para contato.
+<div align=left>
 
 
-## Statistics and Languages ​​Used
+## Status
+<a href="https://www.twitch.tv/juliorats"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/pedrohentec?style=for-the-badge&logo=twitch&color=8a43f3">&nbsp;
+<a href="https://twitter.com/pedrohentec"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedrohentec?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+
+<br>
+<br>
+
+
+
+
+## Estatísticas e Linguagens mais Usadas
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohentec&theme=aura&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohentec&layout=compact&langs_count=8&theme=aura"/>
+  <img height="156m" src="https://github-readme-stats.vercel.app/api?username=pedrohentec&theme=radical&show_icons=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohentec&layout=compact&langs_count=8&theme=radical"/>
 </div>
