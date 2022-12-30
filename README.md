@@ -51,6 +51,6 @@
 ## Estatísticas e Linguagens mais Usadas
 
 <div align="center">
-  <img height="151m" src="https://github-readme-stats.vercel.app/api?username=pedrohentec&theme=radical&show_icons=true"/>
-  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohentec&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150m" src="https://github-readme-stats.vercel.app/api?username=pedrohentec&theme=radical&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohentec&layout=compact&langs_count=8&theme=radical"/>
 </div>
