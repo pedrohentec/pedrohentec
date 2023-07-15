@@ -40,7 +40,6 @@
 
 ## Status
 <a href="https://www.twitch.tv/pedrohentec"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/pedrohentec?style=for-the-badge&logo=twitch&color=8a43f3">&nbsp;
-<a href="https://twitter.com/pedrohentec"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedrohentec?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
 
 <br>
 <br>
