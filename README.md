@@ -30,7 +30,7 @@
 &ensp;<a href="https://www.twitch.tv/pedrohentec"><img src="https://w7.pngwing.com/pngs/968/223/png-transparent-logo-twitch-logos-brands-icon.png" title="Twitch" alt="Twitch Account" width="31"/></a> 
 <a href="https://twitter.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="50"/></a> 
 &ensp;<a href="https://www.instagram.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" alt="Instagram Account" width="32"/></a> 
-&ensp;<a href="https://www.youtube.com/@pedrohentec"><img src="https://seeklogo.com/images/Y/youtube-icon-logo-521820CDD7-seeklogo.com.png" title="YouTube" alt="YouTube Account" width="40"/></a>
+&ensp;<a href="https://www.youtube.com/@pedrohentec"><img src="https://images.seeklogo.com/logo-png/27/1/youtube-icon-logo-png_seeklogo-270054.png" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://discord.com/invite/26bDPQa9TY"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
 
 <!-- <a href="https://www.tiktok.com/@pedrohentec"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/tiktok-5962992_1280.webp" title="TikTok" alt="TikTok Account" width="38"/></a> -->
