@@ -26,12 +26,9 @@
 <div align=center>
 
 &ensp;<a href="https://www.linkedin.com/in/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-
 &ensp;<a href="mailto:pedrohentec@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail Contato" width="38"/></a> 
-
 &ensp;<a href="https://www.twitch.tv/pedrohentec"><img src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png" title="Twitch" alt="Twitch Account" width="31"/></a> 
-
-&ensp;<a href="https://twitter.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="50"/></a> 
+<a href="https://twitter.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="50"/></a> 
 &ensp;<a href="https://www.instagram.com/pedrohentec"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" alt="Instagram Account" width="32"/></a> 
 &ensp;<a href="https://www.youtube.com/@pedrohentec"><img src="https://seeklogo.com/images/Y/youtube-icon-logo-521820CDD7-seeklogo.com.png" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://discord.com/invite/26bDPQa9TY"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" title="Discord" alt="Discord Community" width="40"/></a> 
